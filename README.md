@@ -5,6 +5,7 @@ Atualmente tenho como objetivo trilhar uma carreira de sucesso na área de tecno
 Sei que o caminho é longo e com bastantes obstáculos, tenho muito que aprender e melhorar, só resta continuar lutando e seguindo em frente com humildade, persistência e dedicação.
 Tenho contribuido pouco no gitHub desde o nascimento do meu primeiro filhinho, agora estou me reorganizando para voltar com foco total.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/augusto-melo-/)
 
 ## 💻Projetos Mais Relevantes:
 
